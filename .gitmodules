@@ -1,0 +1,9 @@
+[submodule "first-blog/themes/ananke"]
+	path = first-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad.git
+[submodule "first-blog/themes/mainroad"]
+	path = first-blog/themes/mainroad
+	url = https://github.com/vimux/mainroad.git
